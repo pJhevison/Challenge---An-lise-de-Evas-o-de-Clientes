@@ -95,6 +95,5 @@ git clone https://github.com/pJhevison/Challenge---An-lise-de-Evas-o-de-Clientes
 ---
 ✍️ Autor
 Pedro Jhevison Menezes
-LinkedIn | GitHub
 
 ---
