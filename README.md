@@ -91,6 +91,8 @@ O projeto seguiu um fluxo de trabalho padrão de análise de dados (**ETL + EDA*
 
 ```bash
 git clone https://github.com/pJhevison/Challenge---An-lise-de-Evas-o-de-Clientes.git
+
+---
 ✍️ Autor
 Pedro Jhevison Menezes
 LinkedIn | GitHub
