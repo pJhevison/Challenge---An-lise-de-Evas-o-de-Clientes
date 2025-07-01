@@ -95,8 +95,8 @@ git clone https://github.com/pJhevison/Challenge---An-lise-de-Evas-o-de-Clientes
 ---
 ---
 ### trello do desafio:
-```https://trello.com/b/PVdjMjgL/telecomxbr
-````
+
+link ttps://trello.com/b/PVdjMjgL/telecomxbr)
 ---
 ✍️ Autor
 Pedro Jhevison Menezes
