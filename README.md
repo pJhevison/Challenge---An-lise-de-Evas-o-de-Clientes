@@ -93,6 +93,11 @@ O projeto seguiu um fluxo de trabalho padrão de análise de dados (**ETL + EDA*
 git clone https://github.com/pJhevison/Challenge---An-lise-de-Evas-o-de-Clientes.git
 ```
 ---
+---
+### trello do desafio:
+```https://trello.com/b/PVdjMjgL/telecomxbr
+````
+---
 ✍️ Autor
 Pedro Jhevison Menezes
 
